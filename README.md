@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Carlomk1/mongodb-crime-analysis">
-    <img src="images\FBI-Logo.png" alt="Logo" width="300" height="200">
+    <img src="images\FBI-Logo.png" alt="Logo" width="400" height="200">
   </a>
 </div>
 
@@ -45,7 +45,7 @@ The resulting database structure, stored in MongoDB, can be visualized as the fo
 
 The primary source for this analysis is the FBI Most Wanted database, complemented by nationality information and geospatial country data to provide a comprehensive view of international crime trends. The overall process can therefore be summarized as follows:
 
-![Process](images/Flow Chart.png)
+![Process](images/FlowChart.png)
 
 
 # Data Sources
