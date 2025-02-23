@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Carlomk1/mongodb-crime-analysis">
-    <img src="images\FBI-Logo.png" alt="Logo" width="400" height="200">
+    <img src="images\FBI-Logo.png" alt="Logo" width="350" height="200">
   </a>
 </div>
 
@@ -50,10 +50,10 @@ The primary source for this analysis is the FBI Most Wanted database, complement
 
 # Data Sources
 The data used for this project is publicly available via the following links:
-[FBI-cases](https://api.fbi.gov/wanted/v1/list?)
-[Country-nationality-list](https://raw.githubusercontent.com/Imagin-io/country-nationality-list/refs/heads/master/countries.json)
-[Country-codes-lat-lon](https://raw.githubusercontent.com/eesur/country-codes-lat-long/refs/heads/master/country-codes-lat-long-alpha3.json)
+- [FBI-cases](https://api.fbi.gov/wanted/v1/list?)
+- [Country-nationality-list](https://raw.githubusercontent.com/Imagin-io/country-nationality-list/refs/heads/master/countries.json)
+- [Country-codes-lat-lon](https://raw.githubusercontent.com/eesur/country-codes-lat-long/refs/heads/master/country-codes-lat-long-alpha3.json)
 
 Furthermore, the following information is helpful to form a general understanding of MongoDB:
-[MongoDB-in-Python](https://app.datacamp.com/learn/courses/introduction-to-using-mongodb-for-data-science-with-python)
-[MongoDB-manual](https://www.mongodb.com/docs/manual/)
+- [MongoDB-in-Python](https://app.datacamp.com/learn/courses/introduction-to-using-mongodb-for-data-science-with-python)
+- [MongoDB-manual](https://www.mongodb.com/docs/manual/)
